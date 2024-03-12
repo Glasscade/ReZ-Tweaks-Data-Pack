@@ -1,4 +1,4 @@
-tellraw @a ["",{"text":"ReZombie+","color":"red"},{"text":" Data Pack","color":"gray"},{"text":" Reloaded"}]
+tellraw @a ["",{"text":"Revamped Zombies V0.3","color":"red"},{"text":" Reloaded"}]
 
 # Timer Reset
 scoreboard objectives add timer dummy
